@@ -2,14 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching experience.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Instructor of Record
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- Rice University, MATH 355: Linear Algebra. Instructor, with Tianze Huang.
 
-{% include courses.liquid %}
+## Teaching Assistant
+
+- Rice University, MATH 365: Number Theory. Graduate teaching assistant for Professor Jize Yu.
+- Brown University, MATH 1560: Number Theory. Undergraduate teaching assistant for Professor Isabel Vogt.
+- Brown University, MATH 500: Linear Algebra. Undergraduate teaching assistant through the [Math Teaching Fellows program](https://sites.google.com/brown.edu/mathteachingfellows), organized by Professor Jordan Kostiuk.
+
+## Miscellaneous
+
+- Program in Mathematics for Young Scientists (PROMYS), Counselor, Summer 2023. Mentored high school students in number theory, graded daily problem sets, and gave talks on number theory, hyperbolic geometry, and the aperiodic monotile.
