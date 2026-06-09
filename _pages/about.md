@@ -28,5 +28,5 @@ You can find my CV [here]({{ '/assets/pdf/jonah-g-mendel-cv.pdf' | relative_url 
 
 ## Papers
 
-- S-arithmetic groups acting simply transitively on products of Bruhat-Tits trees, with Jiahui Yu. In preparation.
+- S-arithmetic groups acting simply transitively on products of Bruhat-Tits trees, with Jiahui Yu. Preprint. [arXiv:2305.04448](https://arxiv.org/abs/2305.04448).
 - Lattices in products of trees and Mumford surfaces, with Alina Vdovina and Jakob Stix. In preparation.
